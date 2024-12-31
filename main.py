@@ -9,6 +9,8 @@ def main():
     df = pd.DataFrame({"a": [1, 2, 3], "b": [5, 9, 8]})
     print(df)
     print(Path().cwd())
+    print(Path().cwd())
+    print(Path().cwd())
 
 
 def add_numbers(a, b):
